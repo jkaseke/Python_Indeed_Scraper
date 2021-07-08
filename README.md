@@ -2,7 +2,7 @@
  Python script to scrape Indeed job listings.
 
 
-##Instructions
+## Installation
 1. Download zip
 2. Open with prefered IDE
 3. Update url to reflect your specific search criteria by replacing the url text between f' and {page}'
